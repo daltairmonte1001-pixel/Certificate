@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadCertificateFileName</key>
+			<string>IntelliGO Root CA.cer</string>
+			<key>PayloadContent</key>
+			<data>
+			MIIEDjCCAvagAwIBAgIEWzPZtTANBgkqhkiG9w0BAQ0FADCBnzEL
+			MAkGA1UEBhMCQ0ExCzAJBgNVBAgMAk9OMRMwEQYDVQQHDApDYXRo
+			YXJpbmVzMRcwFQYDVQQKDA5SaWRsZXkgQ29sbGVnZTELMAkGA1UE
+			CwwCSVQxGjAYBgNVBAMMEUludGVsbGlHTyBSb290IENBMSwwKgYJ
+			KoZIhvcNAQkBFh1zdXBwb3J0QGludGVsbGlnb25ldHdvcmtzLmNv
+			bTAeFw0xODA2MjcxODM4NDVaFw00MDA2MjYxODM4NDVaMIGfMQsw
+			CQYDVQQGEwJDQTELMAkGA1UECAwCT04xEzARBgNVBAcMCkNhdGhh
+			cmluZXMxFzAVBgNVBAoMDlJpZGxleSBDb2xsZWdlMQswCQYDVQQL
+			DAJJVDEaMBgGA1UEAwwRSW50ZWxsaUdPIFJvb3QgQ0ExLDAqBgkq
+			hkiG9w0BCQEWHXN1cHBvcnRAaW50ZWxsaWdvbmV0d29ya3MuY29t
+			MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2IBrk652
+			DyQaz+N7l4Bs3eEVXGgMzet1otNoIfMlsJ0eRdRuqxSnNvu+Zd33
+			+b2ai+1RmODmOz3cXO8Lj4QVowmKWg1YvWBDVb1DMLqnyAv+qfs7
+			H8s74KMbRejfQ32R9EfF0P4pUV2UMZE0KUcAn/VIFNbSP21CDgRo
+			CytW4yoMFcgPxLWPTELKBX3+NeV1bfgGh9h3iHjFJ7Xl/lLLhD7Y
+			hkvS/j7prHmHNF/ocrvUaiEDAnmqELBLimc222jWeO01ibDi3baC
+			34JNMxME0eLlkQyVpR6M3p2SmXhDls7fhI6nPf1yD27pmwr5GN/k
+			fldRUHPOWmT9PH1yoEF2nwIDAQABo1AwTjAdBgNVHQ4EFgQUD6xZ
+			pwDBAagYgGKPCzYWxzLKB+cwHwYDVR0jBBgwFoAUD6xZpwDBAagY
+			gGKPCzYWxzLKB+cwDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQ0F
+			AAOCAQEADBJVKP2GP+zJelvsqqQkAsJRFjLrPuMAB0y4jXy4klK1
+			N/mqAygqanFCp7rWcsQy1GTrV/Np+e9aunQaUQGwl1Zc3XStg7OR
+			4Z7SoRAMVGl3IlMxwbPmledFtJED6+d5mccwfaXJBAhj5dU7R7jR
+			wJWB6eiGBWG+BjPdI/z5XwYb2Nxsqu4GsSfg1Kgu1SRtkneDySzb
+			ASan0ZInlCXj004PoPmqTIQ6N+EgUNpvBNMhVazXIFJZ0eMsAqGB
+			JVfSBd8+NZt3c1WjFW4VWTftj50SQtxPV+yguAg8SA0s6steWA7w
+			cM1IEuTuKS9wB0/mUFgtZMglgnw7TBux2dwHGg==
+			</data>
+			<key>PayloadDescription</key>
+			<string>Adds a CA root certificate</string>
+			<key>PayloadDisplayName</key>
+			<string>IntelliGO Root CA</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.security.root.98CC5CCC-C550-4044-9168-AFE248A999BD</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.root</string>
+			<key>PayloadUUID</key>
+			<string>98CC5CCC-C550-4044-9168-AFE248A999BD</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>This profile installs a security certificate that allows access to SSL sites on Ridley College's TigerLINK SSID</string>
+	<key>PayloadDisplayName</key>
+	<string>Ridley - BYOD WiFi</string>
+	<key>PayloadIdentifier</key>
+	<string>RidleyCollege-1889</string>
+	<key>PayloadOrganization</key>
+	<string>Ridley College</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>EC57CEA0-BA7E-48E0-92C2-BE9B1DAEB127</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
